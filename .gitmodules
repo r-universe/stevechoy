@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/stevechoy/stevechoy.r-universe.dev
 	branch = HEAD
-[submodule "pdfcombiner"]
-	path = pdfcombiner
-	url = https://github.com/stevechoy/pdfcombiner
+[submodule "MVPapp"]
+	path = MVPapp
+	url = https://github.com/stevechoy/MVPapp
+[submodule "nonmem2mrgsolve"]
+	path = nonmem2mrgsolve
+	url = https://github.com/Andy00000000000/nonmem2mrgsolve
